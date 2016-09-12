@@ -1,6 +1,6 @@
 # The Marion Filesystem
 
-The Marion filesystem is a FUSE based filesystem written in Python. It exposes a user configurable folder that integrates with a users Google Drive account. This folder encrypts anything placed within it before uploading it to Google Drive. This way, users don't have to worry about uploading sensitive data to the cloud and encryption is handled magically without much user interaction required.
+The Marion filesystem is a filesystem written in Python. It exposes a user configurable folder that integrates with a users Google Drive account. This folder encrypts anything placed within it before uploading it to Google Drive. This way, users don't have to worry about uploading sensitive data to the cloud and encryption is handled magically without much user interaction required.
 
 ## Requirements
 
