@@ -4,7 +4,7 @@ The Marion filesystem is a filesystem written in Python. It exposes a user confi
 
 ## Requirements
 
-In order to use Marion, the user will require a Google Drive account and have the GnuPG software version 2.0 or greater installed and working on their machine. Files may be encrypted either to the users PGP public key or symetrically using a provided password and AES256 bit encryption. This filesystem currently works on Microsoft Windows and Linux only. Support for BSD and OpenIndiana (OpenSolaris) is planned for the future.
+In order to use Marion, the user will require a Google Drive account and have the GnuPG software version 2.0 or greater installed and working on their machine. Files may be encrypted either to the users PGP public key or symetrically using a provided password and AES256 bit encryption. This filesystem currently works on Linux only. Support for Microsoft Windows, kBSD and OpenIndiana (OpenSolaris) is planned for the future.
 
 ## Is it open source?
 
